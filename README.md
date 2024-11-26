@@ -1,4 +1,4 @@
-# SegundoDiaPaRoma
+# Segundo Día Pa Roma
 Vamos a desarrollar el Reto. 03 donde vamos a encontrar una forma de saber si un número natural n es primo o compuesto, con una idea representada en un pseudocódigo, y una representación visual del proceso mediante un diagrama de flujo.
 
 ## Criba de Eratóstenes (Pseudocódigo)
@@ -49,5 +49,5 @@ N(Fin)
 ```
 ***
 ## Bibliografía
-[Clase 4](https://github.com/JBotero99/SegundoDiaPaRoma/blob/main/README.md)
-[Clase5](https://github.com/fegonzalez7/pdc_unal_clase5/blob/master/README.md)
+- [Clase 4](https://github.com/JBotero99/SegundoDiaPaRoma/blob/main/README.md)
+- [Clase 5](https://github.com/fegonzalez7/pdc_unal_clase5/blob/master/README.md)
