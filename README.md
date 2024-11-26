@@ -1,5 +1,5 @@
 # SegundoDiaPaRoma
-Vamos a desarrollar el Reto. 03 donde vamos a encontrar una forma de saber si un número natural n es primo o compuesto.
+Vamos a desarrollar el Reto. 03 donde vamos a encontrar una forma de saber si un número natural n es primo o compuesto, con una idea representada en un pseudocódigo, y una representación visual del proceso mediante un diagrama de flujo.
 
 ## Criba de Eratóstenes (Pseudocódigo)
 Una ayuda que podemos emplear para facilitar el proceso es _la criba de Eratóstenes_, la cual nos permite hallar todos los divisores de un número n.
