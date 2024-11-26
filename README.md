@@ -47,3 +47,7 @@ flowchart TD
     K-->N;
 N(Fin)
 ```
+***
+## Bibliografía
+[Clase 4](https://github.com/JBotero99/SegundoDiaPaRoma/blob/main/README.md)
+[Clase5](https://github.com/fegonzalez7/pdc_unal_clase5/blob/master/README.md)
